@@ -1,0 +1,26 @@
+.projectSlide {
+	object-fit: cover; /* image keeps its original aspect ratio and the image area is completely covered */
+
+	height: 40vh;
+}
+
+.featureSlide {
+	object-fit: cover;
+
+	height: 40vh;
+}
+
+.CarouselCaption {
+	color: gray;
+	font-family: Montserrat;
+}
+
+#weatheryTitle {
+	color: gray;
+}
+
+#projects {
+	width: 80vw;
+	margin: auto;
+}
+

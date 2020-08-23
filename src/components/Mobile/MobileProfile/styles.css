@@ -1,0 +1,10 @@
+#profilePicture {
+	object-fit: cover;
+	height: 40vh;
+}
+
+#profile {
+	width: 80vw;
+	margin: auto;
+}
+

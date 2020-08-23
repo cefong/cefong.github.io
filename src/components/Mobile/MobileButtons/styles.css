@@ -1,0 +1,17 @@
+#buttons {
+	margin: auto;
+	width: 45vh;
+	font-family: Arvo;
+	padding-bottom: 10vh;
+}
+
+#resume {
+	color: white;
+	background-color: #9791A0;
+	border-color: #9791A0;
+}
+
+#contactButton {
+	background-color: #d8aeae;
+	border-color: #d8aeae;
+}

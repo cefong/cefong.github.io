@@ -1,0 +1,17 @@
+#MobileNavbar {
+	overflow: hidden;
+	background-color: #fff1dd;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	padding-top: 5px;
+	padding-left: 10px;
+	color: #9791A0;
+	z-index: 10000;
+}
+
+#navbarTitle {
+	text-align: left;
+	font-size: 2rem;
+	padding: 1vh;
+}

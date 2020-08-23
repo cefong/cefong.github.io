@@ -1,0 +1,16 @@
+li {
+	text-align: left;
+	margin-left: 7.2vw;
+}
+
+div.job > h3 {
+	text-align: center;
+	color: #d8aeae;
+	font-size: 1.5rem;
+}
+
+#experience {
+	width: 80vw;
+	margin: auto;
+	margin-bottom: 5vh;
+}
