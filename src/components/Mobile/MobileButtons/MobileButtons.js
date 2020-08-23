@@ -5,7 +5,7 @@ import './styles.css';
 
 function MobileButtons() {
 	return (
-		<div id="buttons">
+		<div id="contact">
 			<Button variant="primary" size="lg" block id="resume" href="https://drive.google.com/file/d/1HgpBmwuqAFufuuJItZEvko1Ynb4uRvvz/view?usp=sharing">
 				view my resume
 			</Button>

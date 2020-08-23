@@ -7,7 +7,9 @@ export default props => {
 		<Menu {...props}>
 			<a id="aboutMeLink" className="menu-item" href="/">About Me</a>
 			<a id="projectsLink" className="menu-item" href="#projects">Projects</a>
-			<a id="contactLink" className="menu-item" href="/contact">Contact</a>
+			<a id="experienceLink" className="menu-item" href="#experience">Experience</a>
+			<a id="skillsLink" className="menu-item" href="#skills">Skills</a>
+			<a id="contactLink" className="menu-item" href="#contact">Contact</a>
 		</Menu>
 	);
 }
