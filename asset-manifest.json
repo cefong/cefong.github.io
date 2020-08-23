@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fefd0ffa.chunk.css",
+    "main.js": "/static/js/main.53dc4d6e.chunk.js",
+    "main.js.map": "/static/js/main.53dc4d6e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f3c82394.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f3c82394.js.map",
+    "static/js/2.fe190ab2.chunk.js": "/static/js/2.fe190ab2.chunk.js",
+    "static/js/2.fe190ab2.chunk.js.map": "/static/js/2.fe190ab2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bf6c8dcb16c0bb4e72fde708713df0d2.js": "/precache-manifest.bf6c8dcb16c0bb4e72fde708713df0d2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fefd0ffa.chunk.css.map": "/static/css/main.fefd0ffa.chunk.css.map",
+    "static/js/2.fe190ab2.chunk.js.LICENSE.txt": "/static/js/2.fe190ab2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Montserrat-SemiBold.c641dbee.ttf",
+    "static/media/GalagaVideo.jpg": "/static/media/GalagaVideo.adef668c.jpg",
+    "static/media/JuanWick1.jpg": "/static/media/JuanWick1.a8fa0e28.jpg",
+    "static/media/JuanWick2.jpg": "/static/media/JuanWick2.1b922370.jpg",
+    "static/media/JuanWick3.jpg": "/static/media/JuanWick3.3feb37ff.jpg",
+    "static/media/JuanWick4.jpg": "/static/media/JuanWick4.105d533b.jpg",
+    "static/media/snowboard.jpeg": "/static/media/snowboard.e1b603c5.jpeg",
+    "static/media/squareWebsiteProfile.jpg": "/static/media/squareWebsiteProfile.0a11db2a.jpg",
+    "static/media/weatheryPreview.jpg": "/static/media/weatheryPreview.820b30e7.jpg",
+    "static/media/windTurbine.jpg": "/static/media/windTurbine.b48db418.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3c82394.js",
+    "static/js/2.fe190ab2.chunk.js",
+    "static/css/main.fefd0ffa.chunk.css",
+    "static/js/main.53dc4d6e.chunk.js"
+  ]
+}
