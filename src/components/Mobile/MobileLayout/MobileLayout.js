@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
+import Particles from 'react-particles-js';
 
 import './styles.css';
 
@@ -18,6 +18,30 @@ function MobileLayout(props) {
 	return (
 		<div id="MobileLayout">
 			<div id="page-wrap">
+				<Particles
+					canvasClassName="page-wrap"
+					width="100%"
+					height="100%"
+				    params={{
+					    "particles": {
+					        "number": {
+					            "value": 200
+					        },
+					        "size": {
+					            "value": 3
+					        }
+					    },
+					    "interactivity": {
+					        "events": {
+					            "onhover": {
+					                "enable": true,
+					                "mode": "repulse"
+					            }
+					        }
+					    }
+					}} 
+					className="particles"
+					/>
 				<MobileProfile />
 				<MobileProjects />
 				<MobileExperience />
