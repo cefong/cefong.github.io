@@ -11,6 +11,7 @@ import MobileSkills from '../MobileSkills';
 import MobileAwards from '../MobileAwards';
 import MobileButtons from '../MobileButtons';
 import MobileFooter from '../MobileFooter';
+import MobileMenu from '../MobileMenu';
 
 function MobileLayout(props) {
 	console.log("got to mobile layout");

@@ -14,6 +14,12 @@
 	object-fit: cover;
 }
 
+#projects {
+	width: 65vw;
+	margin: auto;
+	margin-bottom: 3vh;
+}
+
 @media only screen and (max-width: 600px) {	
 	.projectSlide {
 		height: 45vw;
@@ -30,6 +36,11 @@
 		margin: auto;
 		object-fit: cover;
 	}
+
+	#projects {
+		width: 80vw;
+		margin: auto;
+	}
 }
 
 .CarouselCaption {
@@ -41,9 +52,5 @@
 	color: gray;
 }
 
-#projects {
-	width: 80vw;
-	margin: auto;
-	padding-bottom: 2vh;
-}
+
 

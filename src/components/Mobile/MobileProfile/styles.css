@@ -1,23 +1,30 @@
-@media only screen and (max-width: 600px) {
-	#profilePicture {
-		object-fit: cover;
-		width: 80vw;
-	}	
-}
-
 #profilePicture {
 	object-fit: cover;
 	height: 45vh;
 }	
 
 #profile {
-	width: 80vw;
+	width: 65vw;
 	margin: auto;
+	margin-bottom: 3vh;
 }
 
 #profileParagraph {
 	margin-top: 0px;
 }
+
+@media only screen and (max-width: 600px) {
+	#profilePicture {
+		object-fit: cover;
+		width: 80vw;
+	}	
+
+	#profile {
+		width: 80vw;
+	}
+}
+
+
 
 #hi {
 	margin-bottom: 0px;

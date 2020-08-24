@@ -10,7 +10,13 @@ div.job > h3 {
 }
 
 #experience {
-	width: 80vw;
+	width: 65vw;
 	margin: auto;
 	margin-bottom: 5vh;
+}
+
+@media only screen and (max-width: 600px) {
+	#experience {
+		width: 80vw;
+	}
 }

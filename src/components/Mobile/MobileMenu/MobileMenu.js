@@ -4,7 +4,7 @@ import "./styles.css";
 
 export default props => {
 	return (
-		<Menu {...props}>
+		<Menu {...props} id="mobileMenu">
 			<a id="aboutMeLink" className="menu-item" href="/">About Me</a>
 			<a id="projectsLink" className="menu-item" href="#projects">Projects</a>
 			<a id="experienceLink" className="menu-item" href="#experience">Experience</a>

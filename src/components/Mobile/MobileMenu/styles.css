@@ -10,12 +10,16 @@ body {
   height: 100vh;
 }
 
+#mobileMenu {
+  z-index: 10000;
+}
 /* Individual item */
 .bm-item {
   display: inline-block;
 
   /* Our sidebar item styling */
   text-decoration: none;
+  text-align: left;
   margin-bottom: 10px;
   color: #FFF1DD;
   transition: color 0.2s;
