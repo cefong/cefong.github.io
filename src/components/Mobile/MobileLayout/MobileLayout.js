@@ -27,7 +27,7 @@ function MobileLayout(props) {
 				<MobileNavbar />
 			</div>
 		</div>
-	);;
+	);
 }
 
 export default MobileLayout;
