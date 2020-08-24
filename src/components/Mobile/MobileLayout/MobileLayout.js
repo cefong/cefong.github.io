@@ -24,8 +24,8 @@ function MobileLayout(props) {
 				{/*<MobileAwards />*/}
 				<MobileButtons />
 				<MobileFooter />
+				<MobileNavbar />
 			</div>
-			<MobileNavbar />
 		</div>
 	);;
 }

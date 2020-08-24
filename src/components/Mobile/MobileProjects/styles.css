@@ -1,13 +1,35 @@
 .projectSlide {
-	object-fit: cover; /* image keeps its original aspect ratio and the image area is completely covered */
+	height: 36vw;
+	width: 64vw;
 
-	height: 40vh;
+	margin: auto;
+	object-fit: cover; /* image keeps its original aspect ratio and the image area is completely covered */
 }
 
 .featureSlide {
-	object-fit: cover;
+	height: 36vw;
+	width: 64vw;
 
-	height: 40vh;
+	margin: auto;
+	object-fit: cover;
+}
+
+@media only screen and (max-width: 600px) {	
+	.projectSlide {
+		height: 45vw;
+		width: 80vw;
+
+		margin: auto;
+		object-fit: cover; /* image keeps its original aspect ratio and the image area is completely covered */
+	}
+
+	.featureSlide {
+		height: 45vw;
+		width: 80vw;
+
+		margin: auto;
+		object-fit: cover;
+	}
 }
 
 .CarouselCaption {
@@ -22,5 +44,6 @@
 #projects {
 	width: 80vw;
 	margin: auto;
+	padding-bottom: 2vh;
 }
 

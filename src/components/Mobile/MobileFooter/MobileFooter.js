@@ -9,9 +9,9 @@ import './styles.css';
 function MobileFooter() {
 	return (
 		<div id='footer'>
-			<a href='https://github.com/cefong'><img src={GithubIcon} alt='Github Icon' id='githubLink'/></a>
-			<a href='https://www.linkedin.com/in/cefong/'><img src={LinkedIn} alt='LinkedIn Icon' id='linkedInLink' /></a>		
-			<a href='https://gitconnected.com/cefong'><img src={Gitconnected} alt='Gitconnected Icon' id='gitconnectedLink' /></a>	
+			<a href='https://github.com/cefong' target="_blank" rel="noreferrer noopener" ><img src={GithubIcon} alt='Github Icon' id='githubLink'/></a>
+			<a href='https://www.linkedin.com/in/cefong/' target="_blank" rel="noreferrer noopener" ><img src={LinkedIn} alt='LinkedIn Icon' id='linkedInLink' /></a>		
+			<a href='https://gitconnected.com/cefong' target="_blank" rel="noreferrer noopener" ><img src={Gitconnected} alt='Gitconnected Icon' id='gitconnectedLink' /></a>	
 		</div>
 	);
 }

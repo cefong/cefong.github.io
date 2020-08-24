@@ -12,6 +12,12 @@ h1, h2, h3 {
 	color: #9791a0;
 }
 
+h3 {
+	margin-top: 2vh;
+	color: #D8AEAE;
+	font-size: 1.5rem;
+}
+
 p {
 	text-align: justify;
 	margin-top: 2vh;
