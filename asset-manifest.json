@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fed1d9b7.chunk.css",
-    "main.js": "/static/js/main.7df7b63d.chunk.js",
-    "main.js.map": "/static/js/main.7df7b63d.chunk.js.map",
+    "main.css": "/static/css/main.c7bdd2d9.chunk.css",
+    "main.js": "/static/js/main.b419c9d7.chunk.js",
+    "main.js.map": "/static/js/main.b419c9d7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f3c82394.js",
     "runtime-main.js.map": "/static/js/runtime-main.f3c82394.js.map",
     "static/js/2.fe190ab2.chunk.js": "/static/js/2.fe190ab2.chunk.js",
     "static/js/2.fe190ab2.chunk.js.map": "/static/js/2.fe190ab2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.07bb18bd67ea850f46100901c95aa902.js": "/precache-manifest.07bb18bd67ea850f46100901c95aa902.js",
+    "precache-manifest.1eeb7141acddc09ae2718835f5c714eb.js": "/precache-manifest.1eeb7141acddc09ae2718835f5c714eb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.fed1d9b7.chunk.css.map": "/static/css/main.fed1d9b7.chunk.css.map",
+    "static/css/main.c7bdd2d9.chunk.css.map": "/static/css/main.c7bdd2d9.chunk.css.map",
     "static/js/2.fe190ab2.chunk.js.LICENSE.txt": "/static/js/2.fe190ab2.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Montserrat-SemiBold.c641dbee.ttf",
     "static/media/GalagaVideo.gif": "/static/media/GalagaVideo.efe58ec5.gif",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.f3c82394.js",
     "static/js/2.fe190ab2.chunk.js",
-    "static/css/main.fed1d9b7.chunk.css",
-    "static/js/main.7df7b63d.chunk.js"
+    "static/css/main.c7bdd2d9.chunk.css",
+    "static/js/main.b419c9d7.chunk.js"
   ]
 }
