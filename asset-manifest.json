@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.3394be81.chunk.css",
-    "main.js": "/static/js/main.c43d62a9.chunk.js",
-    "main.js.map": "/static/js/main.c43d62a9.chunk.js.map",
+    "main.css": "/static/css/main.fed1d9b7.chunk.css",
+    "main.js": "/static/js/main.7df7b63d.chunk.js",
+    "main.js.map": "/static/js/main.7df7b63d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f3c82394.js",
     "runtime-main.js.map": "/static/js/runtime-main.f3c82394.js.map",
     "static/js/2.fe190ab2.chunk.js": "/static/js/2.fe190ab2.chunk.js",
     "static/js/2.fe190ab2.chunk.js.map": "/static/js/2.fe190ab2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4a5bfd674f8669a9a9fac293f454ff1a.js": "/precache-manifest.4a5bfd674f8669a9a9fac293f454ff1a.js",
+    "precache-manifest.07bb18bd67ea850f46100901c95aa902.js": "/precache-manifest.07bb18bd67ea850f46100901c95aa902.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3394be81.chunk.css.map": "/static/css/main.3394be81.chunk.css.map",
+    "static/css/main.fed1d9b7.chunk.css.map": "/static/css/main.fed1d9b7.chunk.css.map",
     "static/js/2.fe190ab2.chunk.js.LICENSE.txt": "/static/js/2.fe190ab2.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Montserrat-SemiBold.c641dbee.ttf",
-    "static/media/GalagaVideo.jpg": "/static/media/GalagaVideo.adef668c.jpg",
-    "static/media/JuanWick1.jpg": "/static/media/JuanWick1.a8fa0e28.jpg",
-    "static/media/JuanWick2.jpg": "/static/media/JuanWick2.1b922370.jpg",
-    "static/media/JuanWick3.jpg": "/static/media/JuanWick3.3feb37ff.jpg",
-    "static/media/JuanWick4.jpg": "/static/media/JuanWick4.105d533b.jpg",
+    "static/media/GalagaVideo.gif": "/static/media/GalagaVideo.efe58ec5.gif",
+    "static/media/JuanWick1.jpg": "/static/media/JuanWick1.0d7993e4.jpg",
+    "static/media/JuanWick2.gif": "/static/media/JuanWick2.9716066b.gif",
+    "static/media/JuanWick3.gif": "/static/media/JuanWick3.6c5d91e6.gif",
+    "static/media/JuanWick4.jpg": "/static/media/JuanWick4.d7deeba7.jpg",
     "static/media/snowboard.jpeg": "/static/media/snowboard.e1b603c5.jpeg",
     "static/media/squareWebsiteProfile.jpg": "/static/media/squareWebsiteProfile.0a11db2a.jpg",
-    "static/media/weatheryPreview.jpg": "/static/media/weatheryPreview.820b30e7.jpg",
+    "static/media/weatheryPreview.jpg": "/static/media/weatheryPreview.ec5ce94f.jpg",
     "static/media/windTurbine.jpg": "/static/media/windTurbine.b48db418.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f3c82394.js",
     "static/js/2.fe190ab2.chunk.js",
-    "static/css/main.3394be81.chunk.css",
-    "static/js/main.c43d62a9.chunk.js"
+    "static/css/main.fed1d9b7.chunk.css",
+    "static/js/main.7df7b63d.chunk.js"
   ]
 }
