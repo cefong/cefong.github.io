@@ -6,7 +6,7 @@ import './styles.css';
 function MobileNavbar(props) {
 	return (
 		<nav id="MobileNavbar">
-			<MobileMenu right disableAutoFocus pageWrapId={"page-wrap"} outerContainerId={"MobileLayout"}/> 
+			<MobileMenu /> 
 			<h1 id="navbarTitle">Celine Fong</h1>
 		</nav>
 	);

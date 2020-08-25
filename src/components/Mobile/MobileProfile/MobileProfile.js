@@ -15,7 +15,8 @@ function MobileProfile(props) {
 			/>
 			<p id="hi">Hi!</p>
 			<p id="profileParagraph">My name is Celine, and I'm a computer engineering student at the University of Alberta. 
-			I'm interested in many aspects of technology, including its application in making our daily lives a little more convenient using things like IoT and embedded systems, but also its importance in tackling more important issues like medicine and sustainability with more advanced technologies like deep learning applications in medical imaging analysis. 
+			I'm interested in many aspects of technology, from its role in making our daily lives a little more convenient with IoT and embedded systems, 
+			to its importance in tackling issues in medicine and sustainability with advanced technologies like deep learning applications in medical imaging analysis. 
 			In my spare time, you'll catch me creating content for my series on sustainability, reading, listening to a podcast, spending some time in the mountains, or hanging out with my dog!
 			</p>
 		</div>

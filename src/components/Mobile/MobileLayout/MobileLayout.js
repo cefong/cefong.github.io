@@ -41,7 +41,7 @@ function MobileLayout(props) {
 					    }
 					}} 
 					className="particles"
-					/>
+				/>
 				<MobileProfile />
 				<MobileProjects />
 				<MobileExperience />
@@ -51,6 +51,7 @@ function MobileLayout(props) {
 				<MobileFooter />
 				<MobileNavbar />
 			</div>
+
 		</div>
 	);
 }
